@@ -212,13 +212,13 @@
             
             <tag> docker </tag>
             
-            <tag> ubuntu </tag>
-            
-            <tag> linux </tag>
-            
             <tag> gogs </tag>
             
             <tag> drone </tag>
+            
+            <tag> ubuntu </tag>
+            
+            <tag> linux </tag>
             
         </tags>
       
